@@ -1,2 +1,2 @@
 # sigma-demo
-This is practice repo for sigma class.
+This is practice repo for Git & Github class.
